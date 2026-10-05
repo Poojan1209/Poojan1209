@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Poojan1209/Poojan1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey! I'm a freelancer and tech enthusiast exploring the world of **Software Engineering & Cybersecurity**.
 
-Here are some ideas to get you started:
+🎨 I currently freelance in **graphic design, creative work, and digital content**, while expanding my skills into tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Currently learning:**
+
+* Software Engineering & Development
+* Cybersecurity & Ethical Hacking
+* Linux & Networking
+* Programming & Scripting
+* Git & GitHub
+
+🔐 I enjoy experimenting with new technologies, working on projects, learning through hands-on practice, and understanding how systems work — and how they can be secured.
+
+🚀 **Freelancing → Learning → Building → Improving**
+
+*Still learning, still building, and always curious.*
